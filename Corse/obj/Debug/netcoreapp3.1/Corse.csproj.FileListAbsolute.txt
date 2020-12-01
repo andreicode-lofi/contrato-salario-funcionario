@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.exe
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.deps.json
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.runtimeconfig.json
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.runtimeconfig.dev.json
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.dll
+C:\Users\andre\source\repos\Corse\Corse\bin\Debug\netcoreapp3.1\Corse.pdb
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.AssemblyInfo.cs
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.dll
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.pdb
+C:\Users\andre\source\repos\Corse\Corse\obj\Debug\netcoreapp3.1\Corse.genruntimeconfig.cache
